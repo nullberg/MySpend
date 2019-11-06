@@ -9,7 +9,7 @@ The idea is that every time I purchase something, I create an entry in my app, i
 ## Example usage
 
 Here is an example of making an entry:
-<img src="https://github.com/nullberg/MySpend/master/images/MySpend_entry_example.png" alt="MySpend_entry_example.png" width="600px"/>
+<img src="https://github.com/nullberg/MySpend/tree/master/images/MySpend_entry_example.png" alt="MySpend_entry_example.png" width="600px"/>
 
 The spend entries are stored locally on the phone in <code>/storage/emulated/0/Documents/MySpend/myspend_data.txt</code>. Example contents of this file are shown below from having opened the file with a text editor on the phone:
-<img src="https://github.com/nullberg/MySpend/master/images/MySpend_data_file.png" alt="MySpend_data_file.png" width="600px"/>
+<img src="https://github.com/nullberg/MySpend/tree/master/images/MySpend_data_file.png" alt="MySpend_data_file.png" width="600px"/>
