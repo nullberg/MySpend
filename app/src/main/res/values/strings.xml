@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">MySpend</string>
+
+    <string name="myinstructions">Please enter your spend item.</string>
+    <string name="category_info">Choose a category:</string>
+    <string name="value_info">Enter the amount:</string>
+    <string name="moneyValue">0.00</string>
+    <string name="btn_submit">Submit</string>
+
+    <string-array name="currency_array">
+        <item>EUR</item>
+        <item>SEK</item>
+        <item>USD</item>
+    </string-array>
+
+    <string-array name="category_array">
+        <item>Food</item>
+        <item>Utilities</item>
+        <item>Pleasure</item>
+        <item>Rent</item>
+        <item>Health</item>
+        <item>Other</item>
+    </string-array>
+</resources>
