@@ -2,9 +2,7 @@
 
 ## Description
 
-Many apps exist out there to keep track of your spendings. But it's amazing how much more useful an app can be when it is tailored exactly to the user's personal needs, even if the app is very simple. So with the <a href="https://en.wikipedia.org/wiki/Android_Studio">Android Studio IDE</a>, this app called <b>MySpend</b> was created, using <a href="https://en.wikipedia.org/wiki/Java">Java</a>, <a href="https://en.wikipedia.org/wiki/XML">XML</a>, a <a href="https://en.wikipedia.org/wiki/Graphical_user_interface_builder">UI builder</a>, and the other backend provided by the IDE.
-
-The idea is that every time you purchase something, an entry can be created in the app, inputting the amount, currency, and category. When "submit" is clicked, the app makes an entry (with a timestamp) in a TXT file stored on the phone. That way, at the end of the month for example, the user can copy this file to their computer, and then parse the data to plot it and have an idea of spendings.
+Many apps exist out there to keep track of your spendings. But sometimes simple is better. This Android app was made in straight-forward and exports your spending data into a simple TXT file with time-stamps. Just select amount, currency, and category.
 
 Using this code as a template, other users can also fork this project and create their own implementation.
 
