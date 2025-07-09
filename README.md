@@ -2,7 +2,7 @@
 
 ## Description
 
-Many apps exist out there to keep track of your spendings. But sometimes simple is better. This Android app was made in straight-forward and exports your spending data into a simple TXT file with time-stamps. Just select amount, currency, and category.
+Many apps exist out there to keep track of your spendings. But sometimes simple is better. This Android app was made in straight-forward way, and exports your spending data into a simple TXT file with time-stamps. Just select amount, currency, and category.
 
 Using this code as a template, other users can also fork this project and create their own implementation.
 
